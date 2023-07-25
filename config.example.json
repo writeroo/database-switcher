@@ -1,0 +1,30 @@
+{
+    "groups": [
+        {
+            "name": "Service 1",
+            "databases": [
+                {
+                    "name": "Sigma",
+                    "url": ""
+                },
+                {
+                    "name": "Omega",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "name": "Service 2",
+            "databases": [
+                {
+                    "name": "Alpha",
+                    "url": ""
+                },
+                {
+                    "name": "Beta",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}
